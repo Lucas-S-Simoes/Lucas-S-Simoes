@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 - CSS
 - JavaScript
 - React
+
+#### Email: lucassilvasimoes@yahoo.com
+#### CodePen: https://codepen.io/Lucas_S
