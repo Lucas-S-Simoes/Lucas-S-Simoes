@@ -3,7 +3,7 @@ Lucas-S-Simoes/Lucas-S-Simoes is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-### Olá, Meu nome é Lucas Simões, sou formado em Publicidade e Propaganda,
+### Olá, meu nome é Lucas Simões, sou formado em Publicidade e Propaganda,
 ### e estou estudando sobre linguagens de programação Front-End.
 - Aprendendo
 - HTML
