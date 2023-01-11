@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 - HTML
 - CSS
 - JavaScript
-- React
+- React JS
 
 #### Email: lucassilvasimoes@yahoo.com
